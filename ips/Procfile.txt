@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* dummy
+web: java $JAVA_OPTS -cp target/classes:target/dependency/* ips
